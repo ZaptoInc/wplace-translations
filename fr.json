@@ -20,7 +20,7 @@
   "top_users": "Meilleurs Joueurs",
   "upvotes": "{{count}} upvotes",
   "my_wplace_accounts": "Mes comptes Wplace",
-  "my_wplace_accounts_description": "Voici vos comptes Wplace liés à votre compte Discord.",
+  "my_wplace_accounts_de scription": "Voici vos comptes Wplace liés à votre compte Discord.",
   "query_placeholder": "Rechercher par nom ici...",
   "order_by": "Order by",
   "order_by_upvotes": "Trier par Upvotes",
@@ -40,7 +40,7 @@
   "description": "Description",
   "no_description": "Pas de description.",
   "unknown_page": "Page introuvable",
-  "unknown_page_description": "La page que vous cherchez n’existe pas ou a été déplacée.",
+  "unknown_page_description": "La page que vous cherchez n'existe pas ou a été déplacée.",
   "home": "Accueil",
   "go_back": "Retour",
   "id":"ID",
@@ -50,5 +50,7 @@
   "comments":"commentaires",
   "show_replies":"Montrer les réponses ({{count}})",
   "reply":"Répondre",
-  "replying_to":"Répondre à {{username}}"
+  "replying_to":"Répondre à {{username}}",
+  "comment_error_length":"Le commentaire doit être entre {{min}} et {max} caractères.",
+  "comment_error_captcha":"Veuillez effectuer le test captcha avant d'envoyer votre commentaire."
 }

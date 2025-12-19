@@ -50,5 +50,7 @@
   "comments":"Comments",
   "show_replies":"Show replies ({{count}})",
   "reply":"Reply",
-  "replying_to":"Replying to {{username}}"
+  "replying_to":"Replying to {{username}}",
+  "comment_error_length":"Comment should be between {{min}} and {{max}} characters.",
+  "comment_error_captcha":"Please do the captcha before sending the comment."
 }
