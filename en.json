@@ -49,5 +49,6 @@
   "send":"Send",
   "comments":"Comments",
   "show_replies":"Show replies ({{count}})",
-  "reply":"Reply"
+  "reply":"Reply",
+  "replying_to":"Replying to {{username}}"
 }

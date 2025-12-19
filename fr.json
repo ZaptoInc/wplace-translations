@@ -49,5 +49,6 @@
   "send":"Envoyer",
   "comments":"commentaires",
   "show_replies":"Montrer les réponses ({{count}})",
-  "reply":"Répondre"
+  "reply":"Répondre",
+  "replying_to":"Répondre à {{username}}"
 }
