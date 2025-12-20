@@ -52,5 +52,10 @@
   "reply": "Responder",
   "replying_to": "Respondendo a {{username}}",
   "comment_error_length": "Comentários devem ter entre {{min}} e {{max}} caracteres.",
-  "comment_error_captcha": "Por favor, complete o captcha antes de enviar o comentário."
+  "comment_error_captcha": "Por favor, complete o captcha antes de enviar o comentário.",
+  "delete": "Delete",
+  "deleted": "Deleted",
+  "unknown": "Unknown",
+  "cancel": "Cancel",
+  "confirm": "Confirm"
 }
