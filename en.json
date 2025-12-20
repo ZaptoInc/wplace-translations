@@ -60,5 +60,7 @@
   "confirm": "Confirm",
   "no_permissions":"You don't have the permissions to do that",
   "comment_not_found":"Comment not found",
-  "no_comments_yet":"No comments yet."
+  "no_comments_yet":"No comments yet.",
+  "server_error":"Server Error",
+  "server_error_description":"There was a server error, we're sorry about that."
 }
