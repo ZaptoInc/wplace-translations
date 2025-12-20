@@ -62,5 +62,8 @@
   "comment_not_found": "Comentário não encontrado",
   "no_comments_yet": "Nenhum comentário ainda.",
   "server_error": "Erro no servidor",
-  "server_error_description": "Houve um erro no servidor, lamentamos por isso."
+  "server_error_description": "Houve um erro no servidor, lamentamos por isso.",
+  "flag_site_administrator":"Site Administrator",
+  "flag_premium":"Premium",
+  "flag_wplace_moderator":"Wplace Moderator"
 }

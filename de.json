@@ -62,5 +62,8 @@
   "comment_not_found": "Kommentar nicht gefunden",
   "no_comments_yet": "Noch keine Kommentare.",
   "server_error": "Serverfehler",
-  "server_error_description": "Es ist ein Serverfehler aufgetreten, das tut uns leid."
+  "server_error_description": "Es ist ein Serverfehler aufgetreten, das tut uns leid.",
+  "flag_site_administrator":"Site Administrator",
+  "flag_premium":"Premium",
+  "flag_wplace_moderator":"Wplace Moderator"
 }

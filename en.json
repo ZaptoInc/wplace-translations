@@ -62,5 +62,8 @@
   "comment_not_found":"Comment not found",
   "no_comments_yet":"No comments yet.",
   "server_error":"Server Error",
-  "server_error_description":"There was a server error, we're sorry about that."
+  "server_error_description":"There was a server error, we're sorry about that.",
+  "flag_site_administrator":"Site Administrator",
+  "flag_premium":"Premium",
+  "flag_wplace_moderator":"Wplace Moderator"
 }
