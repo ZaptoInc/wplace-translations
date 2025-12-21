@@ -70,5 +70,12 @@
   "until":"Jusqu'à",
   "reason":"Raison",
   "no_reason_given":"Pas de Raison fournie.",
-  "close":"Fermer"
+  "close":"Fermer",
+  "notifications":"Notifications",
+  "new_comment":"Nouveau Commentaire",
+  "new_comment_text":"{{author}} a posté un commentaire sur votre compte utilisateur.",
+  "new_reply":"Nouvelle Réponse",
+  "new_reply_text":"{{author}} a répondu à votre commentaire",
+  "no_notifications":"Pas de notifications",
+  "mark_all_as_read":"Tout marquer comme lu"
 }

@@ -70,5 +70,12 @@
   "until":"Until",
   "reason":"Reason",
   "no_reason_given":"No reason given",
-  "close":"Close"
+  "close":"Close",
+  "notifications":"Notifications",
+  "new_comment":"New Comment",
+  "new_comment_text":"{{author}} posted a comment on your user account.",
+  "new_reply":"New Reply",
+  "new_reply_text":"{{author}} replied to your comment",
+  "no_notifications":"No notifications",
+  "mark_all_as_read":"Mark all as read"
 }
