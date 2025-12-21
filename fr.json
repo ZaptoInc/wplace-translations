@@ -65,5 +65,9 @@
   "server_error_description":"Une erreur serveur s'est produite, nous en sommes désolés.",
   "flag_site_administrator":"Administrateur du site",
   "flag_premium":"Premium",
-  "flag_wplace_moderator":"Moderateur Wplace"
+  "flag_wplace_moderator":"Moderateur Wplace",
+  "your_are_banned":"Vous êtes banni!",
+  "reason":"Raison",
+  "no_reason_given":"Pas de Raison fournie.",
+  "close":"Fermer"
 }
