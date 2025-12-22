@@ -77,5 +77,6 @@
   "new_reply":"New Reply",
   "new_reply_text":"{{author}} replied to your comment",
   "no_notifications":"No notifications",
-  "mark_all_as_read":"Mark all as read"
+  "mark_all_as_read":"Mark all as read",
+  "users_hidden_by_alliance":"The members are hidden by the alliance."
 }
