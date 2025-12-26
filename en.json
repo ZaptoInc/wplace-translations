@@ -79,8 +79,10 @@
   "new_reply_text": "{{author}} replied to your comment",
   "no_notifications": "No notifications",
   "mark_all_as_read": "Mark all as read",
+  "members":"Members",
   "users_hidden_by_alliance": "The members are hidden by the alliance.",
   "edit": "Edit",
+  "edit_name": "Edit {{name}}",
   "claim": "Claim",
   "claim_an_alliance": "Claim an Alliance",
   "invite_link": "Invite link",
@@ -94,5 +96,7 @@
   "claim_request_title": "Your claim request was reviewed",
   "claim_request_approved": "Your claim request was approved!",
   "claim_request_denied": "Your claim request was denied.",
-  "claim_request_denied_message": "Your claim request for {{alliance}} was denied for {{message}}."
+  "claim_request_denied_message": "Your claim request for {{alliance}} was denied for {{message}}.",
+  "publicly_visible": "Publicly visible",
+  "description_placeholder_alliance":"My alliance is for..."
 }

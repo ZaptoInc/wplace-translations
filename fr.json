@@ -79,8 +79,10 @@
   "new_reply_text": "{{author}} a répondu à votre commentaire",
   "no_notifications": "Pas de notifications",
   "mark_all_as_read": "Tout marquer comme lu",
+  "members":"Membres",
   "users_hidden_by_alliance": "Les membres sont cachés par l'alliance.",
   "edit": "Modifier",
+  "edit_name": "Modifier {{name}}",
   "claim": "Revendiquer",
   "claim_an_alliance": "Revendiquer une alliance",
   "invite_link": "Lien d'invitation",
@@ -93,5 +95,7 @@
   "claim_request_submitted": "Votre demande de revendication a été soumise.",
   "claim_request_title": "Votre demande de revendication a été examinée.",
   "claim_request_approved": "Votre demande de revendication a été approuvée !",
-  "claim_request_denied": "Votre demande de revendication a été refusée."
+  "claim_request_denied": "Votre demande de revendication a été refusée.",
+  "publicly_visible": "Visible publiquement",
+  "description_placeholder_alliance":"Mon alliance est pour..."
 }
