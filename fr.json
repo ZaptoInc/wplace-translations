@@ -97,5 +97,6 @@
   "claim_request_approved": "Votre demande de revendication a été approuvée !",
   "claim_request_denied": "Votre demande de revendication a été refusée.",
   "publicly_visible": "Visible publiquement",
-  "description_placeholder_alliance":"Mon alliance est pour..."
+  "description_placeholder_alliance":"Mon alliance est pour...",
+  "banned":"Banni"
 }

@@ -65,5 +65,6 @@
   "server_error_description": "Es ist ein Serverfehler aufgetreten, das tut uns leid.",
   "flag_site_administrator":"Site Administrator",
   "flag_premium":"Premium",
-  "flag_wplace_moderator":"Wplace Moderator"
+  "flag_wplace_moderator":"Wplace Moderator",
+  "banned":"Verboten"
 }

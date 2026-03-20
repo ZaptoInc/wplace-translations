@@ -98,5 +98,6 @@
   "claim_request_denied": "Your claim request was denied.",
   "claim_request_denied_message": "Your claim request for {{alliance}} was denied for {{message}}.",
   "publicly_visible": "Publicly visible",
-  "description_placeholder_alliance":"My alliance is for..."
+  "description_placeholder_alliance":"My alliance is for...",
+  "banned":"Banned"
 }
